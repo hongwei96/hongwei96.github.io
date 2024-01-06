@@ -1,7 +1,7 @@
 ---
 title: "Vroom Vroom Rider (2014)"
 date: 2014-01-01
-description: "Guide to Chart.js usage in Blowfish"
+description: "Vroom Vroom Rider"
 summary: "A two player split screen, 3D racing game. Made with Unity3D"
 tags: ["C#", "Unity3D"]
 showDate: false

@@ -1,7 +1,7 @@
 ---
 title: "Undefined Invasion (2015)"
-date: 2014-01-01
-description: "Guide to Chart.js usage in Blowfish"
+date: 2015-01-01
+description: "Undefined Invasion"
 summary: "A two player split screen, 3D racing game. Made with Unity3D"
 tags: ["C#", "Unity3D"]
 showDate: false

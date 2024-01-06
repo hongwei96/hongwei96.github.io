@@ -12,8 +12,19 @@
 
 [[main]]
   name = "Showcase"
-  pageRef = "showcase"
   weight = 10
+
+[[main]]
+  name = "Programs"
+  parent = "Showcase"
+  pageRef = "programs"
+  weight = 30
+
+[[main]]
+  name = "Others"
+  parent = "Showcase"
+  pageRef = "others"
+  weight = 40
 
 # [[main]]
 #   name = "Blog"
