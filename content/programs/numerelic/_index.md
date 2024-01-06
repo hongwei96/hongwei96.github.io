@@ -39,6 +39,8 @@ Role : Programmer
 {{< button href="https://drive.google.com/uc?export=download&id=1w5TODd3BSTN026TxGsJDO8-8xGjU_XQ0" target="_blank" >}}
 Android APK
 {{< /button >}}
+ 
+<snap></snap>
 
 {{< button href="https://drive.google.com/uc?export=download&id=1ONJD5Z23vJtX-QW_dXOAEB8Ltx0MF7Na" target="_blank" >}}
 Win Executable
