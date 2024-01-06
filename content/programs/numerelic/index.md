@@ -2,7 +2,7 @@
 title: "Numerelic (2016)"
 date: 2016-01-01
 description: "Numerelic"
-summary: "A two player split screen, 3D racing game. Made with Unity3D"
+summary: ""
 tags: ["Game", "C#", "Unity3D"]
 showDate: false
 type: 'sample'
