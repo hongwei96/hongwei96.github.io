@@ -15,7 +15,7 @@
   weight = 10
 
 [[main]]
-  name = "Programs"
+  name = "Games/Application"
   parent = "Showcase"
   pageRef = "programs"
   weight = 30
