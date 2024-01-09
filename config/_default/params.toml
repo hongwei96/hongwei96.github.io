@@ -18,7 +18,7 @@ mainSections = ["docs"]
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "/img/mc_world.jpg"
+defaultBackgroundImage = "/img/GamesStrip.jpg"
 defaultFeaturedImage = "/img/mc_world.jpg"
 
 highlightCurrentMenuArea = true

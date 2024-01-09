@@ -1,5 +1,5 @@
 ---
-title: "Showcase"
+title: "Games/Applications"
 description: "See what's possible with Blowfish."
 
 cascade:
