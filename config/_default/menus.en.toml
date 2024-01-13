@@ -21,6 +21,12 @@
   weight = 30
 
 [[main]]
+  name = "2D/3D Art"
+  parent = "Showcase"
+  pageRef = "art"
+  weight = 40
+
+[[main]]
   name = "Others"
   parent = "Showcase"
   pageRef = "others"
